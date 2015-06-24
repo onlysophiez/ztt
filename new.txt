@@ -4,10 +4,5 @@ by ztt.
 
 I have modified 3 times.
 I changed it.
-<<<<<<< HEAD
-add one row.
 I changed at master branch.
-=======
-add one row.
-It's a test.
->>>>>>> feature1
+
